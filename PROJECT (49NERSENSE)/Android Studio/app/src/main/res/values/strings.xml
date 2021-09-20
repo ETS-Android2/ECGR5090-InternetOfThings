@@ -1,0 +1,16 @@
+<resources>
+
+
+    <string name="app_name">49NERSENSE</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Today Weather Demo</string>
+    <string name="on_stat">On</string>
+    <string name="off_stat">Off</string>
+    <string name="closed_stat">Closed</string>
+    <string name="open_stat">Open</string>
+    <string name="armed_home_stat">Home</string>
+    <string name="armed_away_stat">Away</string>
+
+
+
+</resources>
