@@ -1,4 +1,4 @@
-# ECGR-5090-Internet-of-Things(FALL2020)
+# ECGR5090-Internet of Things(FALL2020)
 ## Course Description:
 Software and Hardware Integration of Mobile Devices, Servers and Internet-of-Things. A project-oriented course relying heavily on Android Mobile Device App Development, Server-Client Apache and Socket Programming, and Hardware-Software co-implementation of IoT applications on Embedded Mobile devices. SDK, Programming (C/C++), Java.
 
