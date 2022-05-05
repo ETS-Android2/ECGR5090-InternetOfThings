@@ -6,7 +6,7 @@
 * [Setup](#setup)
 
 ## General info
-This project is a supposed level 1 IOT implementation. This repository contains a home utility android application, php docs, MySql Database Export File and python socketing codes implemented. Android Apphas the following features: a User Login and Registration page, User Interface for Home Devices, Live Camera Data Streaming and into local server, Weather Forecast using AccuWeather Api and Interaction with MySQL Database and Python Socket Programming from Local Server to raspberry pi. The 
+This project is a supposed level 1 IOT implementation. This repository contains a home utility android application, php docs, MySql Database Export File and python socketing codes implemented. Android Apphas the following features: a User Login and Registration page, User Interface for Home Devices, Live Camera Data Streaming and into local server, Weather Forecast using AccuWeather Api and Interaction with MySQL Database and Python Socket Programming from Local Server to raspberry pi.
 	
 ## Technologies
 Project is created with:
